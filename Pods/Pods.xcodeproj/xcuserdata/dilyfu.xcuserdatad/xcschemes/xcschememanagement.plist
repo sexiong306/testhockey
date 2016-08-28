@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>HockeySDK-Source-HockeySDKResources.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>HockeySDK-Source.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-testhockey.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-testhockeyTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-testhockeyUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>57A4EE821E477991A92D0C931C810AB3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8F928A8DE843EC3DEF7E59065B5FA0D9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A6E4BF1CF9C8083FDE754AC8786692BD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C6C86739A83E50E1EEC71ACD08978C50</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F492382A4142771F65CCCC5EA096AE91</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
