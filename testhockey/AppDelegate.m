@@ -7,6 +7,9 @@
 //
 
 #import "AppDelegate.h"
+#import <HockeySDK-Source/BITHockeyManager.h>
+
+static NSString *APPID = @"4acd9d0d7ece4c258b1c99fa0cceb0b4";
 
 @interface AppDelegate ()
 
@@ -17,6 +20,9 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    //init Hockey
+    [[BITHockeyManager sharedHockeyManager] configureWithIdentifier:APPID];
+    [[BITHockeyManager sharedHockeyManager] startManager];
     return YES;
 }
 

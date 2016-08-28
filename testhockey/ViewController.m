@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+//    NSException *ept = [[NSException alloc] init];
+//    @throw ept;
     // Do any additional setup after loading the view, typically from a nib.
 }
 
